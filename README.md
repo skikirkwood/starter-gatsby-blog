@@ -10,7 +10,7 @@ With Contentful and Gatsby you can connect your favorite static site generator w
 
 ## Build Status
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/95e8336d-3610-42ed-9f7b-70186238118b/deploy-status)](https://app.netlify.com/sites/condescending-snyder-bb6043/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/95e8336d-3610-42ed-9f7b-70186238118b/deploy-status)](https://app.netlify.com/sites/hero-digital-demo/deploys)
 
 ## Features
 
