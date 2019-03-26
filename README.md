@@ -8,6 +8,10 @@ Static sites are scalable, secure and have very little required maintenance. The
 
 With Contentful and Gatsby you can connect your favorite static site generator with an API that provides an easy to use interface for people writing content and automate the publishing using services like [Travis CI](https://travis-ci.org/) or [Netlify](https://www.netlify.com/).
 
+## Build Status
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/95e8336d-3610-42ed-9f7b-70186238118b/deploy-status)](https://app.netlify.com/sites/condescending-snyder-bb6043/deploys)
+
 ## Features
 
 * Simple content model and structure. Easy to adjust to your needs.
@@ -42,5 +46,4 @@ Feel free to open pull requests to fix bugs. If you want to add features, please
 
 You can learn more about how Contentful userland is organized by visiting [our about repository](https://github.com/contentful-userland/about).
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/95e8336d-3610-42ed-9f7b-70186238118b/deploy-status)](https://app.netlify.com/sites/condescending-snyder-bb6043/deploys)
 
